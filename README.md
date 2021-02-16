@@ -1,2 +1,2 @@
 # Number-Infos
-3 Minute Python Project, See Telephone Number Service and Country with a Simple Python Script.
+Just insert a Number when you Launch the Script and you will get the Informations about the Number.
